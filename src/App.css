@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+
+.list {
+  padding: 20px;
+  border: 1px solid red;
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.pokemonId {
+  display: flex;
+  flex-direction: row;
+}
